@@ -46,9 +46,8 @@
 ## 🎨 Elegant Cloud Computing Animation
 
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/cloud-computing-6292345-5119611.gif" width="400" alt="Cloud Computing Animation" />
+  <img src="./assets/cloud.gif" width="400" alt="Cloud Computing Animation" />
 </p>
-
 ---
 
 > _“Cloud computing is the backbone of digital transformation — and I’m here to build it securely.”_
