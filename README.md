@@ -1,28 +1,34 @@
-# 👋 Hello there! I'm Shruti Patil
+# 👩‍💻 Shruti Patil
 
-🎓 B.Tech in Cloud Technology & Information Security  
-☁️ Passionate about AWS, Cloud Projects, and Cybersecurity  
-💡 I love building scalable solutions and continuously learning new technologies
-
----
-
-## 🚀 Projects
-
-- **Resume Builder App** – Built using AWS Lambda, S3, SES  
-- **AWS Projects** – Leveraging services like EC2, API Gateway, DynamoDB  
-- **EKYC Blockchain** – Secure identity verification using decentralized tech
+🎓 **B.Tech in Cloud Technology & Information Security**  
+🔐 Focused on building secure, scalable cloud solutions  
+🚀 Passionate about AWS, DevOps, and emerging technologies in cybersecurity
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Featured Projects
+
+- **Resume Builder App**  
+  Serverless architecture using AWS Lambda, S3, and SES
+
+- **AWS Cloud Portfolio**  
+  Hands-on projects leveraging EC2, API Gateway, DynamoDB, and IAM
+
+- **EKYC Blockchain**  
+  Decentralized identity verification using smart contracts
+
+---
+
+## 🧰 Technical Skills
 
 - **Languages**: Java, Python, HTML/CSS  
-- **Cloud**: AWS (Lambda, S3, SES, API Gateway)  
-- **Tools**: Git, Linux, Postman, Canva
+- **Cloud Platforms**: AWS (Lambda, S3, SES, API Gateway)  
+- **Tools & Technologies**: Git, Linux, Postman, Canva  
+- **Security Concepts**: IAM, encryption, secure data handling
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 - Docker & Containerization  
 - Kubernetes & Orchestration  
@@ -30,17 +36,17 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect with Me
 
-- 💼 [LinkedIn – Shruti Patil](https://linkedin.com/in/shruti-cloud)
+- 💼 [LinkedIn – Shruti Patil](https://linkedin.com/in/shruti-cloud)  
 - 📧 Email: `shruti.patil.cloud@example.com`
 
 ---
 
-## 🎨 Elegant Cloud Computing GIF
+## 🎨 Elegant Cloud Computing Animation
 
-![Elegant Cloud Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Cloud Computing Animation](https://cdn.iconscout.com/lottie/premium/thumb/cloud-computing-6292345-5119611.gif)
 
 ---
 
-> _“Cloud computing isn’t just a skill — it’s the future of scalable innovation.”_
+> _“Cloud computing is the backbone of digital transformation — and I’m here to build it securely.”_
