@@ -1,41 +1,46 @@
-# 🌥️ Hello, I'm Shruti!
+# 👋 Hello there! I'm Shruti Patil
 
-✨ I'm a passionate learner and aspiring cloud engineer, exploring the vast skies of cloud computing. From provisioning virtual machines to automating deployments, I love diving into the tools and technologies that power modern infrastructure.
-
----
-
-## 💼 Skills & Interests
-
-- ☁️ **Cloud Platforms**: AWS, Azure, GCP (beginner to intermediate)
-- 🐧 **Linux System Administration**: User management, permissions, Bash scripting
-- 🔐 **DevOps Tools**: Docker, Kubernetes, Terraform (learning in progress)
-- 📈 **Monitoring & Logging**: CloudWatch, Prometheus, Grafana
-- 🧠 **Learning Style**: Hands-on, persistent, and methodical — I believe in building before mastering
+🎓 B.Tech in Cloud Technology & Information Security  
+☁️ Passionate about AWS, Cloud Projects, and Cybersecurity  
+💡 I love building scalable solutions and continuously learning new technologies
 
 ---
 
-## 📫 Contact Me
+## 🚀 Projects
 
-- 📧 Email: `shruti.cloud.dev@example.com`
-- 💼 LinkedIn: [linkedin.com/in/shruti-cloud](https://linkedin.com/in/shruti-cloud)
-- 🐦 Twitter: [@shruti_cloud](https://twitter.com/shruti_cloud)
-
----
-
-## 📊 GitHub Stats & Badges
-
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti207142&show_icons=true&theme=cloudinary)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti207142&layout=compact&theme=cloudinary)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shruti207142&color=blue)
+- **Resume Builder App** – Built using AWS Lambda, S3, SES  
+- **AWS Projects** – Leveraging services like EC2, API Gateway, DynamoDB  
+- **EKYC Blockchain** – Secure identity verification using decentralized tech
 
 ---
 
-## 🎨 Fun with Cloud GIFs
+## 🧰 Tech Stack
 
-![Elegant Cloud Computing GIF](https://iconscout.com/lottie-animations/cloud-computing)
+- **Languages**: Java, Python, HTML/CSS  
+- **Cloud**: AWS (Lambda, S3, SES, API Gateway)  
+- **Tools**: Git, Linux, Postman, Canva
 
 ---
 
-> “The cloud is not just a place — it's a mindset. Let's build, break, and learn together.”
+## 📚 Currently Learning
+
+- Docker & Containerization  
+- Kubernetes & Orchestration  
+- CI/CD Pipelines with Jenkins & GitHub Actions
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn – Shruti Patil](https://linkedin.com/in/shruti-cloud)
+- 📧 Email: `shruti.patil.cloud@example.com`
+
+---
+
+## 🎨 Elegant Cloud Computing GIF
+
+![Elegant Cloud Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+---
+
+> _“Cloud computing isn’t just a skill — it’s the future of scalable innovation.”_
