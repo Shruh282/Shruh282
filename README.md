@@ -34,7 +34,7 @@
 
 ## 🎨 Fun with Cloud GIFs
 
-![Cloud Computing GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Elegant Cloud Computing GIF](https://iconscout.com/lottie-animations/cloud-computing)
 
 ---
 
